@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Helvetica";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/helvetica/helvetica-light-normal.woff2") format("woff2"),
+    url("../fonts/helvetica/helvetica-light-normal.woff") format("woff"),
+    url("../fonts/helvetica/helvetica-light-normal.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Intro-Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/intro/intro-regular.woff2") format("woff2"),
+    url("../fonts/intro/intro-regular.woff") format("woff"),
+    url("../fonts/intro/intro-regular.ttf") format("truetype");
+}
